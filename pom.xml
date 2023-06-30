@@ -94,13 +94,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <name>TheHeavenlys Releases Nexus Repository</name>
 	      <url>http://54.165.175.166:8181/TheHeavenlys/repository/tesla-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>TheHeavenlys Snapshot Nexus Repository </name>
 	      <url>http://54.165.175.166:8181/TheHeavenlys/repository/tesla-snapshots/</url>
 	    </snapshotRepository>
 	    
